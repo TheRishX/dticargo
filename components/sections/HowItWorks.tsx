@@ -20,7 +20,7 @@ export default function HowItWorks() {
            className="mb-16 text-center md:text-left"
         >
           <h2 className="text-3xl md:text-5xl font-display font-bold text-[#1A2E20] mb-4">The DTI Process</h2>
-          <p className="text-gray-600 text-lg">Streamlined logistics from point A to point B.</p>
+          <p className="text-gray-600 text-lg">Streamlined transportation from point A to point B.</p>
         </motion.div>
 
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8 md:gap-4 relative">

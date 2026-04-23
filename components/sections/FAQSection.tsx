@@ -7,11 +7,11 @@ import { ChevronDown } from 'lucide-react';
 const faqs = [
   {
     question: 'What services do you provide?',
-    answer: 'We offer comprehensive logistics solutions including Full Truckload (FTL), Less Than Truckload (LTL), Warehousing, Freight Brokerage, Last-Mile Delivery, and end-to-end Supply Chain Management.',
+    answer: 'We offer specialized trucking solutions including Full Truckload (FTL), Less Than Truckload (LTL), Warehousing, Expedited Freight, Local Hauling, and Dedicated Fleet Services.',
   },
   {
     question: 'How can I track my shipment?',
-    answer: 'You can trace the general route map and logistics paths directly from our homepage. For exact load tracking, our upcoming customer portal provides real-time GPS precision updates.',
+    answer: 'You can trace the general route map and hauling paths directly from our homepage. For exact load tracking, our upcoming customer portal provides real-time GPS precision updates.',
   },
   {
     question: 'How quickly can I get a quote?',
@@ -19,7 +19,7 @@ const faqs = [
   },
   {
     question: 'Do you handle cross-border shipping?',
-    answer: 'Yes, we specialize primarily in robust nationwide US routes but have dedicated carrier networks to manage seamless logistics across the North American borders (Canada and Mexico).',
+    answer: 'Yes, we primarily operate on robust nationwide US routes but provide seamless hauling services across the North American borders (Canada and Mexico) using our specialized assets.',
   },
 ];
 
@@ -40,7 +40,7 @@ export default function FAQSection() {
           className="text-center mb-12"
         >
           <h2 className="text-3xl md:text-5xl font-display font-bold text-[#1A2E20] mb-4">Frequently Asked Questions</h2>
-          <p className="text-gray-600 text-lg">Everything you need to know about our logistics and routing.</p>
+          <p className="text-gray-600 text-lg">Everything you need to know about our trucking and hauling services.</p>
         </motion.div>
 
         <div className="space-y-4">

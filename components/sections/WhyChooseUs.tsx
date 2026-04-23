@@ -21,7 +21,7 @@ const stats = [
 const features = [
   { iconName: 'Zap' as const, title: 'Hyper-Fast Delivery', desc: 'Optimized routing algorithms ensure your freight takes the fastest path.', color: 'text-amber-500' },
   { iconName: 'ShieldCheck' as const, title: 'Uncompromised Security', desc: 'End-to-end encryption and physical security protocols for high-value cargo.', color: 'text-emerald-600' },
-  { iconName: 'Headphones' as const, title: '24/7 Dedicated Support', desc: 'A dedicated logistics expert is always just a phone call away.', color: 'text-teal-600' },
+  { iconName: 'Headphones' as const, title: '24/7 Dedicated Support', desc: 'A dedicated transportation expert is always just a phone call away.', color: 'text-teal-600' },
   { iconName: 'LineChart' as const, title: 'Advanced Tracking', desc: 'Real-time GPS tracking and API integrations for complete visibility.', color: 'text-indigo-500' },
 ];
 
@@ -76,7 +76,7 @@ export default function WhyChooseUs() {
              transition={{ delay: 0.1 }}
              className="text-gray-600 text-lg mb-12"
           >
-            We don&apos;t just move freight; we engineer logistics competitive advantages. Our combination of technology and human expertise ensures your supply chain never sleeps.
+            We don&apos;t just move freight; we engineer transportation competitive advantages. Our combination of dedicated assets and technical expertise ensures your cargo is always moving.
           </motion.p>
 
           <div className="space-y-8">

@@ -82,7 +82,7 @@ export default function Navbar() {
         <div className="hidden md:flex items-center gap-4">
           <div className="flex items-center gap-2 text-sm text-gray-600 mr-2">
              <Phone className="w-4 h-4 text-emerald-600" />
-             <span>(800) 555-0199</span>
+             <span>+1 (323) 408-0241</span>
           </div>
           <a href="/#contact" className="bg-[#1A2E20] text-white px-6 py-2.5 rounded-full text-sm font-semibold hover:scale-105 transition-transform active:scale-95 shadow-lg shadow-[#1A2E20]/20 text-center flex items-center justify-center">
             Get a Quote

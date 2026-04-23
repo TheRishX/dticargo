@@ -15,8 +15,8 @@ const iconMap = {
 const services = [
   {
     iconName: 'Combine',
-    title: 'Freight Brokerage',
-    description: 'Connect with a trusted network of carriers to securely move freight nationwide.',
+    title: 'Local & Regional Hauling',
+    description: 'Expert regional distribution with a dedicated fleet ensuring your freight arrives on schedule.',
     routePath: 'M0 20 Q 50 -10, 100 20',
     color: '#059669', // emerald-600
     vehicle: 'truck',
@@ -32,7 +32,7 @@ const services = [
   {
     iconName: 'Package',
     title: 'Less Than Truckload (LTL)',
-    description: 'Cost-effective logistics for smaller loads. Pay only for the space you use.',
+    description: 'Cost-effective hauling for smaller loads. Pay only for the space you use.',
     routePath: 'M0 15 Q 15 15, 25 10 T 50 5 T 75 10 T 100 15',
     color: '#65a30d', // lime-600
     vehicle: 'truck',
@@ -47,8 +47,8 @@ const services = [
   },
   {
     iconName: 'Anchor',
-    title: 'Supply Chain Management',
-    description: 'End-to-end optimization of your supply chain, reducing operational costs.',
+    title: 'Expedited Freight',
+    description: 'Direct, time-sensitive transport solutions using our most reliable dedicated assets.',
     routePath: 'M0 0 Q 30 20, 60 15 T 100 10',
     color: '#10b981', // emerald-500
     vehicle: 'plane',

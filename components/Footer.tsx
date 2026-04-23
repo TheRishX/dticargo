@@ -9,17 +9,22 @@ export default function Footer() {
             DTI<span className="text-transparent bg-clip-text bg-gradient-to-r from-emerald-400 to-teal-400">CARGO</span>
           </span>
           <p className="text-emerald-100/70 text-sm">
-            Fast, reliable, nationwide logistics you can trust.
+            Fast, reliable, nationwide transportation you can trust.
           </p>
+          <div className="mt-6 text-emerald-100/60 text-xs space-y-1">
+            <p>548 Bacon Ridge Way, CA 92377</p>
+            <p>+1 (323) 408-0241</p>
+            <p>Support@dticargo.com</p>
+          </div>
         </div>
         
         <div>
            <h4 className="text-white font-semibold mb-4">Services</h4>
            <ul className="space-y-2 text-sm text-emerald-100/60">
-             <li><a href="/#services" className="hover:text-emerald-300 transition-colors">Freight Brokerage</a></li>
+             <li><a href="/#services" className="hover:text-emerald-300 transition-colors">Local Hauling</a></li>
              <li><a href="/#services" className="hover:text-emerald-300 transition-colors">FTL & LTL</a></li>
              <li><a href="/#services" className="hover:text-emerald-300 transition-colors">Warehousing</a></li>
-             <li><a href="/#services" className="hover:text-emerald-300 transition-colors">Supply Chain Mgt</a></li>
+             <li><a href="/#services" className="hover:text-emerald-300 transition-colors">Expedited Freight</a></li>
            </ul>
         </div>
 
@@ -37,7 +42,7 @@ export default function Footer() {
            <ul className="space-y-2 text-sm text-emerald-100/60">
              <li><Link href="/privacy" className="hover:text-emerald-300 transition-colors">Privacy Policy</Link></li>
              <li><Link href="/terms" className="hover:text-emerald-300 transition-colors">Terms of Service</Link></li>
-             <li><Link href="/terms" className="hover:text-emerald-300 transition-colors">Bill of Lading Terms</Link></li>
+             <li><Link href="/bol-terms" className="hover:text-emerald-300 transition-colors">Bill of Lading Terms</Link></li>
            </ul>
         </div>
       </div>

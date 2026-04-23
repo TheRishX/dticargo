@@ -15,10 +15,10 @@ export default function Terms() {
             <p className="mb-4">By accessing or using DTICargo.com, you agree to be legally bound by these Terms of Service. If you do not agree to any of these terms, please do not use our services.</p>
             
             <h2 className="text-xl font-semibold text-[#1A2E20] mt-6 mb-3">2. Service Usage</h2>
-            <p className="mb-4">Our logistics services are subject to additional carrier agreements and standard Bill of Lading protocols upon finalizing a shipment.</p>
+            <p className="mb-4">Our transportation services are subject to additional carrier agreements and standard Bill of Lading protocols upon finalizing a shipment.</p>
             
             <h2 className="text-xl font-semibold text-[#1A2E20] mt-6 mb-3">3. Liability</h2>
-            <p className="mb-4">While we execute with exact precision, DTI Cargo acts seamlessly as a broker and logistics facilitator. Liability of freight transit damage falls upon the designated carrier operating under DOT regulations.</p>
+            <p className="mb-4">While we execute with exact precision, DTI Cargo operates as a private motor carrier. Liability of freight transit damage is governed by the standard Carmack Amendment and our specific carrier liability policies.</p>
             
             <h2 className="text-xl font-semibold text-[#1A2E20] mt-6 mb-3">4. Disclaimer</h2>
             <p className="mb-4">Website functionality, quotes, and tracking metrics are provided &quot;as-is&quot;. Quotes provided are estimates until officially verified and dispatched.</p>

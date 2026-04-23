@@ -31,7 +31,7 @@ export default function About() {
               Driving the Future of <span className="text-transparent bg-clip-text bg-gradient-to-r from-emerald-600 to-teal-600">Logistics.</span>
             </h1>
             <p className="text-gray-600 text-lg leading-relaxed mb-8">
-              Founded with a vision to eliminate supply chain friction, DTI Cargo combines deep industry expertise with cutting-edge 4D route optimization. We don&apos;t just move freight; we provide strategic competitive advantages.
+              Founded with a vision to streamline transportation through modern technology, DTI Cargo combines a high-quality fleet with cutting-edge 4D route optimization. We are a dedicated trucking company specializing in moving your high-value assets with speed, precision, and reliable capacity.
             </p>
           </motion.div>
 
@@ -65,7 +65,7 @@ export default function About() {
              >
                 <h2 className="text-3xl md:text-5xl font-display font-bold text-[#1A2E20] mb-6">Our Mission</h2>
                 <p className="text-xl text-gray-600 leading-relaxed font-light">
-                  To empower modern businesses by providing scalable, perfectly executed logistics solutions that remove friction from the supply chain, reduce operational costs, and deliver absolute peace of mind.
+                  To empower modern businesses by providing scalable, perfectly executed transportation solutions that remove friction from the supply chain, reduce operational costs, and deliver absolute peace of mind.
                 </p>
              </motion.div>
            </div>

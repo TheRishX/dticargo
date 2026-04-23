@@ -12,16 +12,16 @@ export default function PrivacyPolicy() {
             <p className="mb-4">Last Updated: {new Date().toLocaleDateString()}</p>
             
             <h2 className="text-xl font-semibold text-[#1A2E20] mt-6 mb-3">1. Information We Collect</h2>
-            <p className="mb-4">We collect information that you manually provide to us for logistics routing, quoting, and business communication purposes including your name, company info, and shipment details.</p>
+            <p className="mb-4">We collect information that you manually provide to us for transportation routing, quoting, and business communication purposes including your name, company info, and shipment details.</p>
             
             <h2 className="text-xl font-semibold text-[#1A2E20] mt-6 mb-3">2. How We Use Your Information</h2>
-            <p className="mb-4">Your information is strictly used to process quotes, deliver shipments efficiently, handle logistics communication, and improve our website&apos;s user experience.</p>
+            <p className="mb-4">Your information is strictly used to process quotes, deliver shipments efficiently, handle transportation communication, and improve our website&apos;s user experience.</p>
             
             <h2 className="text-xl font-semibold text-[#1A2E20] mt-6 mb-3">3. Data Security</h2>
-            <p className="mb-4">We take immense pride in ensuring top-tier digital security protocols are in place to prevent unauthorized access or disclosure of your logistical and financial data.</p>
+            <p className="mb-4">We take immense pride in ensuring top-tier digital security protocols are in place to prevent unauthorized access or disclosure of your transportation and financial data.</p>
             
             <h2 className="text-xl font-semibold text-[#1A2E20] mt-6 mb-3">4. Contact Us</h2>
-            <p className="mb-4">For any privacy-related questions, please use our contact form or call us directly at <strong>(800) 555-0199</strong>.</p>
+            <p className="mb-4">For any privacy-related questions, please use our contact form or call us directly at <strong>+1 (323) 408-0241</strong>.</p>
           </div>
         </div>
       </main>

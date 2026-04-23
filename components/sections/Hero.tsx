@@ -85,7 +85,7 @@ export default function Hero() {
           >
             NATIONWIDE <br className="hidden lg:block" />
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-emerald-600 to-teal-600">
-               LOGISTICS.
+               TRUCKING.
             </span> <br className="hidden lg:block" />
             REDEFINED.
           </motion.h1>

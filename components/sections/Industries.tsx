@@ -33,7 +33,7 @@ export default function Industries() {
              viewport={{ once: true }}
              className="text-gray-600 max-w-sm md:text-right"
           >
-            Our logistics experts understand the unique regulatory and handling requirements of your specific sector.
+            Our transportation experts understand the unique regulatory and handling requirements of your specific sector.
           </motion.p>
         </div>
 
